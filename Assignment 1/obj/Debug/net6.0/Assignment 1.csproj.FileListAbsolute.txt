@@ -1,0 +1,45 @@
+D:\MacEwan\C#\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.exe
+D:\MacEwan\C#\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.deps.json
+D:\MacEwan\C#\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.runtimeconfig.json
+D:\MacEwan\C#\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1\Assignment 1\bin\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.AssemblyReference.cache
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfoInputs.cache
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfo.cs
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\refint\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\Assignment 1.genruntimeconfig.cache
+D:\MacEwan\C#\Assignment 1\Assignment 1\obj\Debug\net6.0\ref\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\bin\Debug\net6.0\Assignment 1.exe
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\bin\Debug\net6.0\Assignment 1.deps.json
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\bin\Debug\net6.0\Assignment 1.runtimeconfig.json
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\bin\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\bin\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.AssemblyReference.cache
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfoInputs.cache
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfo.cs
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\refint\Assignment 1.dll
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\Assignment 1.genruntimeconfig.cache
+D:\MacEwan\C#\Assignment 1 - Copy\Assignment 1\obj\Debug\net6.0\ref\Assignment 1.dll
+D:\MacEwan\C#\Assignment1\Assignment 1\bin\Debug\net6.0\Assignment 1.exe
+D:\MacEwan\C#\Assignment1\Assignment 1\bin\Debug\net6.0\Assignment 1.deps.json
+D:\MacEwan\C#\Assignment1\Assignment 1\bin\Debug\net6.0\Assignment 1.runtimeconfig.json
+D:\MacEwan\C#\Assignment1\Assignment 1\bin\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment1\Assignment 1\bin\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.AssemblyReference.cache
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfoInputs.cache
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.AssemblyInfo.cs
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.dll
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\refint\Assignment 1.dll
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.pdb
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\Assignment 1.genruntimeconfig.cache
+D:\MacEwan\C#\Assignment1\Assignment 1\obj\Debug\net6.0\ref\Assignment 1.dll
